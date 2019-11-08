@@ -1,0 +1,53 @@
+body {
+  background:  url("../images/darkback.jpg") no-repeat center fixed;  
+  background-size: cover;
+  } 
+  p.double {
+      border-style: double;
+  }
+  header {
+      color: silver;
+  }
+  h1 {
+    color: silver;
+    text-align: center;
+  }
+
+  h2{
+    color: silver;
+  }
+  
+  h3 {
+    color: silver;
+  }
+  
+  p {
+    color: silver;
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  header {
+    border-style: solid;
+    font-family: fantasy;
+    font-style: color rgb(192, 192, 192);
+    float: right;
+  }
+
+  strong {
+    color: silver;
+  }
+
+    #profile2 {
+      width: 250px;
+      height: 200px;
+      transform:rotate(90deg);
+    }
+
+
+    
+  
+
+  
+     
+  
